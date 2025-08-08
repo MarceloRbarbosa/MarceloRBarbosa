@@ -1,6 +1,6 @@
 # Marcelo Ribeiro Barbosa
 
- Desenvolvedor FullStack em formação na Driven Education | Curso intensivo e prático aplicando Clean Code e boas práticas de desenvolvimento 
+ Desenvolvedor FullStack em formação na Driven Education | Curso intensivo e prático com foco em  Clean Code e boas práticas de desenvolvimento 
 
   Estudante de Análise e Desenvolvimento de Sistemas (ADS) na UNIFRAN
 
@@ -32,3 +32,7 @@ class Desenvolvedor {
 
 const marcelo = new Desenvolvedor();
 marcelo.apresentar();
+```
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-ribeiro-barbosa/)
+[![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:marceloribeirobarbosa92@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/MarceloRbarbosa?tab=repositories)
