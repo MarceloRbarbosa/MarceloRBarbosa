@@ -1,8 +1,7 @@
 # Marcelo Ribeiro Barbosa
 
+ Estudante de Análise e Desenvolvimento de Sistemas (ADS) na UNIFRAN
  Desenvolvedor FullStack em formação na Driven Education | Curso intensivo e prático com foco em  Clean Code e boas práticas de desenvolvimento 
-
-  Estudante de Análise e Desenvolvimento de Sistemas (ADS) na UNIFRAN
 
 ---
 
