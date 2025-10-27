@@ -33,7 +33,7 @@ const marcelo = new Desenvolvedor();
 marcelo.apresentar();
 ```
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,express,postgresql,mongodb,html,css,git,github,vercel" alt="Tecnologias de Marcelo Ribeiro Barbosa" />
+  <img src="https://skillicons.dev/icons?i=js,typescript,nodejs,express,postgresql,mongodb,html,css,react,vite,git,github,vercel" alt="Tecnologias de Marcelo Ribeiro Barbosa" />
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-ribeiro-barbosa/)
