@@ -69,10 +69,9 @@ automated testing, and turning real product requirements into reliable features.
 | [**chat-app-API**](https://github.com/MarceloRbarbosa/chat-app-API) | Chat API built with Prisma and test coverage (Vitest + Supertest) | Express · TS · Prisma · Vitest |
 | [**Driven Eats**](https://front-end-driven-eats.vercel.app) | Online food-ordering front-end ([source](https://github.com/MarceloRbarbosa/FrontEnd-DRIVEN-EATS)) | React · TS · Vite |
 
-### 📊 GitHub Stats
+### 📊 Most Used Languages
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MarceloRbarbosa&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloRbarbosa&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
 </p>
 
